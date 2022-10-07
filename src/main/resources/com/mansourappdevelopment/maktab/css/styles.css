@@ -1,0 +1,46 @@
+.button {
+    -fx-background-color: #2F80BB;
+    -fx-text-fill: white;
+    -fx-background-radius: 10px;
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+    -fx-font-family: arial;
+
+
+}
+
+.label {
+    -fx-font-size: 20px;
+    -fx-text-fill: #2B3137;
+    -fx-font-family: arial;
+    -fx-font-weight: bold;
+    -fx-pref-height: 40px;
+    -fx-alignment: center-right;
+}
+
+.label-correct {
+    -fx-text-fill: #71DE5D;
+}
+
+.label-error {
+    -fx-text-fill: #DE5D5D;
+}
+
+.text-field {
+    -fx-font-size: 20px;
+    -fx-text-fill: #2B3137;
+    -fx-font-family: arial;
+    -fx-font-weight: bold;
+    -fx-background-radius: 10px;
+    -fx-pref-height: 40px;
+}
+
+.combo-box{
+    -fx-font-size: 20px;
+    -fx-text-fill: #2B3137;
+    -fx-font-family: arial;
+    -fx-font-weight: bold;
+    -fx-background-radius: 10px;
+    -fx-pref-height: 40px;
+}
+

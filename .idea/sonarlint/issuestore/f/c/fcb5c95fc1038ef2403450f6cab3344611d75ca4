@@ -1,0 +1,151 @@
+
+w
+java:S1192"[Define a constant instead of duplicating this literal "Ø³Ù†Ù‡ Ø¨Ø¯ÙˆÙ† Ù…Ø¹Ø¯Ø§Øª" 3 times.( ù”ëıÿÿÿÿ
+f
+java:S1192Å"JDefine a constant instead of duplicating this literal "PROJ_NAME" 4 times.(À—å–ıÿÿÿÿ
+n
+java:S1192"RDefine a constant instead of duplicating this literal "Ø³Ù†Ù‡ Ù…Ø¹Ø¯Ø§Øª" 3 times.( ù”ëıÿÿÿÿ
+k
+java:S1192"ODefine a constant instead of duplicating this literal "Ø¨ÙŠØªÙˆÙ…ÙŠÙ†" 3 times.(Ø«šßÿÿÿÿÿ
+‰
+java:S1192"mDefine a constant instead of duplicating this literal "Ø³Ù†Ù‡ Ø®ØµÙ… Ø§Ø³Ù…Ù†Øª Ø¨Ø¯ÙˆÙ† Ù…Ø¹Ø¯Ø§Øª" 3 times.(Ø«šßÿÿÿÿÿ
+b
+java:S1192¼"KDefine a constant instead of duplicating this literal "MOK_NUMBER" 4 times.(€âÅà
+h
+java:S1192¿"LDefine a constant instead of duplicating this literal "PROJ_NUMBER" 4 times.(äãœÌûÿÿÿÿ
+f
+java:S1192Â"JDefine a constant instead of duplicating this literal "PROJ_YEAR" 4 times.(‰óª¸ûÿÿÿÿ
+h
+java:S1192¯"LDefine a constant instead of duplicating this literal "label-error" 8 times.(ì…À¥úÿÿÿÿ
+‚
+java:S1192"fDefine a constant instead of duplicating this literal "Ø³Ù†Ù‡ Ø®ØµÙ… Ø§Ø³Ù…Ù†Øª Ø¨Ù…Ø¹Ø¯Ø§Øª" 3 times.(Ø«šßÿÿÿÿÿ
+v
+java:S1192"ZDefine a constant instead of duplicating this literal "Ø§Ø¨ØªØ¯Ø§Ø¦Ù‰ Ù†Ù‡Ø§Ø¦Ù‰" 3 times.(Ø«šßÿÿÿÿÿ
+b
+java:S1192^"GDefine a constant instead of duplicating this literal "[^\\d]" 4 times.(®• ­øÿÿÿÿ
+D
+java:S1121›".Extract the assignment out of this expression.(ÏäÈS
+E
+java:S1121œ".Extract the assignment out of this expression.(…ÿ¡
+E
+java:S1121".Extract the assignment out of this expression.(Ó€Ù…
+E
+java:S1121".Extract the assignment out of this expression.(¦ˆ¦¯
+J
+java:S1121Ÿ".Extract the assignment out of this expression.(ÔÒµ¯úÿÿÿÿ
+E
+java:S1121 ".Extract the assignment out of this expression.(ï—õ
+C
+java:S1604Y"(Make this anonymous inner class a lambda(ú™€ûÿÿÿÿ
+>
+java:S1604b"(Make this anonymous inner class a lambda(ñİ©¨
+>
+java:S1604k"(Make this anonymous inner class a lambda(…ú¹£
+>
+java:S1604t"(Make this anonymous inner class a lambda(Ù“š’
+o
+java:S1104!"TMake btnPrint a static final constant or non-public and provide accessors if needed.(¶¨©‘ùÿÿÿÿ
+p
+java:S1104""UMake btnIncMok a static final constant or non-public and provide accessors if needed.(ñĞ€Šşÿÿÿÿ
+k
+java:S1104#"UMake btnDecMok a static final constant or non-public and provide accessors if needed.(Ì¬±¹
+m
+java:S1104%"RMake txtMok a static final constant or non-public and provide accessors if needed.(óÄ¿½ÿÿÿÿÿ
+i
+java:S1104&"SMake txtProj a static final constant or non-public and provide accessors if needed.(ÖüÅ
+m
+java:S1104'"WMake txtLocation a static final constant or non-public and provide accessors if needed.(ÛäÜØ
+r
+java:S1104("WMake txtProjName a static final constant or non-public and provide accessors if needed.(…öÛ­ùÿÿÿÿ
+p
+java:S1104)"ZMake txtCompanyName a static final constant or non-public and provide accessors if needed.(¢…ÎË
+j
+java:S1104*"TMake txtValue a static final constant or non-public and provide accessors if needed.(—ËÊÍ
+r
+java:S1104+"WMake txtProjYear a static final constant or non-public and provide accessors if needed.(ŠÕ‚šüÿÿÿÿ
+m
+java:S1104."WMake cbEshtratat a static final constant or non-public and provide accessors if needed.(ÛÆØõ
+q
+java:S1104/"[Make cbEshtratatType a static final constant or non-public and provide accessors if needed.(à¥ú
+n
+java:S11040"XMake cbKorasaType a static final constant or non-public and provide accessors if needed.(Şî‰ƒ
+q
+java:S11042"VMake datePicker a static final constant or non-public and provide accessors if needed.(ĞÔÆøÿÿÿÿ
+o
+java:S11043"TMake mainPane a static final constant or non-public and provide accessors if needed.(ÚÓí ûÿÿÿÿ
+m
+java:S11044"WMake btnEstshari a static final constant or non-public and provide accessors if needed.(Öß¨¥
+q
+java:S11045"VMake btnTafqeet a static final constant or non-public and provide accessors if needed.(©±Èøıÿÿÿÿ
+t
+java:S11046"YMake btnDeleteData a static final constant or non-public and provide accessors if needed.(Üö²Ÿşÿÿÿÿ
+k
+java:S11047"UMake txtStatus a static final constant or non-public and provide accessors if needed.(ÁÈí¥
+u
+java:S11048"ZMake txtMokawelName a static final constant or non-public and provide accessors if needed.(ÚÂ¼²ùÿÿÿÿ
+f
+java:S2259İ"JA "NullPointerException" could be thrown; "eshtratatDoc" is nullable here.(ÛÌøñùÿÿÿÿ
+k
+java:S2259"OA "NullPointerException" could be thrown; "packageProperties" is nullable here.(­˜ª—ÿÿÿÿÿ
+d
+java:S2259Œ"HA "NullPointerException" could be thrown; "opcPackage" is nullable here.(íÿØ‹øÿÿÿÿ
+m
+java:S3776O"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(•‘İŸüÿÿÿÿ
+W
+java:S1858"A"getText" returns a string, there's no need to call "toString()".(ÈÆÍ­
+I
+java:S1135„"2Complete the task associated to this TODO comment.(ö¦Óä
+X
+java:S1858Œ"A"getText" returns a string, there's no need to call "toString()".(ÈÆÍ­
+I
+java:S1135‘"2Complete the task associated to this TODO comment.(ö¦Óä
+X
+java:S1858­"A"getText" returns a string, there's no need to call "toString()".(ÎØËş
+]
+java:S1858±"A"getText" returns a string, there's no need to call "toString()".(Ã¶Šëüÿÿÿÿ
+X
+java:S1858µ"A"getText" returns a string, there's no need to call "toString()".(àì÷¹
+]
+java:S1858¹"A"getText" returns a string, there's no need to call "toString()".(ş“ƒ£úÿÿÿÿ
+X
+java:S1858½"A"getText" returns a string, there's no need to call "toString()".(‡±·¼
+X
+java:S1858Á"A"getText" returns a string, there's no need to call "toString()".(Ãíü—
+]
+java:S1858Å"A"getText" returns a string, there's no need to call "toString()".(È˜ªıÿÿÿÿ
+^
+java:S1858á"B"getValue" returns a string, there's no need to call "toString()".(¦®§´şÿÿÿÿ
+^
+java:S1858â"B"getValue" returns a string, there's no need to call "toString()".(ˆç§ùÿÿÿÿ
+^
+java:S1858ã"B"getValue" returns a string, there's no need to call "toString()".(–Õº¡ùÿÿÿÿ
+X
+java:S1858ç"A"getText" returns a string, there's no need to call "toString()".(­€üó
+]
+java:S1858è"A"getText" returns a string, there's no need to call "toString()".(´¨¡›ıÿÿÿÿ
+]
+java:S1858é"A"getText" returns a string, there's no need to call "toString()".(»ÙŒÈÿÿÿÿÿ
+]
+java:S1858ê"A"getText" returns a string, there's no need to call "toString()".(©â„úÿÿÿÿ
+X
+java:S1858ë"A"getText" returns a string, there's no need to call "toString()".(¶€¢ø
+]
+java:S1858ì"A"getText" returns a string, there's no need to call "toString()".(Øó¢«üÿÿÿÿ
+X
+java:S1858í"A"getText" returns a string, there's no need to call "toString()".(ûî™”
+X
+java:S1858î"A"getText" returns a string, there's no need to call "toString()".(Èõõ÷
+n
+java:S3776“"RRefactor this method to reduce its Cognitive Complexity from 52 to the 15 allowed.(ó­ë¢úÿÿÿÿ
+V
+java:S1854›"@Remove this useless assignment to local variable "eshtratatDoc".(ÏäÈS
+W
+java:S1854œ"@Remove this useless assignment to local variable "eshtratatDoc".(…ÿ¡
+W
+java:S1854"@Remove this useless assignment to local variable "eshtratatDoc".(Ó€Ù…
+W
+java:S1854"@Remove this useless assignment to local variable "eshtratatDoc".(¦ˆ¦¯
+\
+java:S1854Ÿ"@Remove this useless assignment to local variable "eshtratatDoc".(ÔÒµ¯úÿÿÿÿ
+W
+java:S1854 "@Remove this useless assignment to local variable "eshtratatDoc".(ï—õ
